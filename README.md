@@ -204,10 +204,10 @@ Dentro de _Issues_, [las entradas se pueden etiquetar con ciertas categorías](h
 
 Antes de publicar:
 * Busca en Internet para encontrar la solución
-* Si pasan horas y el problema persiste, entra a [_Issues_](https://github.com/IIC2513-2017-1/syllabus/issues)
 * Busca si alguien tiene la misma pregunta o problema
   * Si encuentras un post marcado como resuelto, pero no te satisface la respuesta, puedes comentar la issue y **volver a abrirla**
-* En caso de no encontrar un post que te sirva, lo creas presionando **[_New issue_](https://github.com/IIC2513-2017-1/syllabus/issues/new)**
+* Si pasan horas y el problema persiste, entra a [_Issues_](https://github.com/IIC2513-2017-1/syllabus/issues)
+* Como no encontraste un post que te sirva, crea uno presionando **[_New issue_](https://github.com/IIC2513-2017-1/syllabus/issues/new)**
 * Escribe una entrada **explicando bien el problema o pregunta**
 * Publica
 
